@@ -1,4 +1,4 @@
-## Hola, Soy Sergio Vergara 👋
+## Hola, soy Sergio Vergara 👋
 
 ## Sobre mi
 - 🔭 Estudiante de prácticas de la empresa Tracasa Global realizando aplicaciones web GIS
